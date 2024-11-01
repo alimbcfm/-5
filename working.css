@@ -1,0 +1,151 @@
+body{
+    background-color: bisque;
+}
+#q1 {
+    float: left;
+    padding: 20px;
+    background-color: rgb(202, 244, 244);
+    width: 700px;
+    height: 500px;
+    border: solid 4px black ;
+    
+}
+input{
+    height: 50px;
+    width: 50px;
+    top: 50px;
+    font-size: 30px;
+    border: solid black 2px;
+    margin: 10px;
+    border-radius: 30px;
+}
+input:hover{
+    background: #4b99d8;
+    cursor: pointer;
+}
+label{
+  font-size: 30px;  
+}
+#next1 {
+    font-size: 30px;
+    border-radius: 30px;
+    left: 50px;
+    margin-left: 200px;
+    display: none;
+}
+#next1:hover{
+    background: #e3c117;
+    cursor: pointer;
+}
+input:focus {
+    background-color: rgb(99, 209, 21); /* اللون عند التركيز */
+}
+
+#q2 {
+    float: left;
+    padding: 20px;
+    background-color: rgb(202, 244, 244);
+    width: 700px;
+    height: 500px;
+    border: solid 4px black ;  
+}
+  
+#next2 {
+    font-size: 30px;
+    border-radius: 30px;
+    left: 50px;
+    margin-left: 200px;
+    display: none;
+}
+#next2:hover{
+    background: #e3c117;
+    cursor: pointer;
+}
+
+#q3 {
+    float: left;
+    padding: 20px;
+    background-color: rgb(202, 244, 244);
+    width: 700px;
+    height: 500px;
+    border: solid 4px black ;  
+}
+  
+#next3 {
+    font-size: 30px;
+    border-radius: 30px;
+    left: 50px;
+    margin-left: 200px;
+    display: none;
+}
+#next3:hover{
+    background: #e3c117;
+    cursor: pointer;
+}
+
+#q4 {
+    float: left;
+    padding: 20px;
+    background-color: rgb(202, 244, 244);
+    width: 700px;
+    height: 500px;
+    border: solid 4px black ;  
+}
+  
+#next4 {
+    font-size: 30px;
+    border-radius: 30px;
+    left: 50px;
+    margin-left: 200px;
+    display: none;
+}
+#next4:hover{
+    background: #e3c117;
+    cursor: pointer;
+}
+#q2 {
+    display: none;
+}
+#q3 {
+    display: none;
+}#q4 {
+    display: none;
+}
+
+#res {
+    float: left;
+    padding: 20px;
+    background-color: rgb(202, 244, 244);
+    width: 700px;
+    height: 200px;
+    border: solid 4px black ; 
+    display: none; 
+}
+
+#addButton{
+    font-size: 40px;
+}
+#resultDiv{
+    font-size: 40px;
+}
+#num1{
+    display: none;
+}
+#num2{
+    display: none;
+}
+#num3{
+    display: none;
+}
+#num4{
+    display: none;
+}
+#num5{
+    display: none;
+}
+#num6{
+    display: none;
+}
+#num7{
+    display: none;
+}
